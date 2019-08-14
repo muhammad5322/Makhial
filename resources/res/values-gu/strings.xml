@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Lite પર ઉમેરો</string>
+    <string name="app_name">લાઇટ</string>
+    <string name="appupdate_notif_title_download_in_progress">અપડેટ ડાઉનલોડ કરી રહ્યાં છે</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ને Google Play સેવાઓમાં મુશ્કેલી આવી રહી છે. કૃપા કરીને ફરી પ્રયાસ કરો.</string>
+    <string name="external_share_to_story_intent_label">તમારી વાર્તા</string>
+</resources>

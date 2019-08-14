@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">Lisää Liteen</string>
+    <string name="appupdate_notif_title_download_in_progress">Päivitystä ladataan</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="external_share_to_story_intent_label">Tarinasi</string>
+</resources>

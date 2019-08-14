@@ -1,0 +1,4 @@
+.id okhttp
+.requires dex
+.locator_id 2
+okhttp-1.dex.jar.xzs.tmp~ 45e2f33d1b22087c0c157f8d6066732cc6e80f32 storec864.dex01.Canary

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="black_to_transparent_gradient">r/ca.xml</drawable>
+    <drawable name="button_bg_blue">r/bt.xml</drawable>
+    <drawable name="button_bg_empty">r/m.xml</drawable>
+    <drawable name="button_bg_trans">r/ba.xml</drawable>
+    <drawable name="camera_button">r/b5.png</drawable>
+    <drawable name="camera_new_button">r/ce.png</drawable>
+    <drawable name="contact_list_image_background">r/b9.xml</drawable>
+    <drawable name="cross_white">r/br.xml</drawable>
+    <drawable name="floating_text_box_background">r/v.xml</drawable>
+    <drawable name="foreground_touch_feedback">r/bl.xml</drawable>
+    <drawable name="icon_rotate">r/0.png</drawable>
+    <drawable name="inline_text_box_dark_background">r/_.xml</drawable>
+    <drawable name="inline_text_box_light_background">r/-.xml</drawable>
+    <drawable name="manage_storage_item_background_checked">r/b-.xml</drawable>
+    <drawable name="manage_storage_item_background_unchecked">r/z.xml</drawable>
+    <drawable name="paid_preview_progress">r/bo.xml</drawable>
+    <drawable name="photo_placeholder_dark">r/4.png</drawable>
+    <drawable name="rotate_bg">r/q.xml</drawable>
+    <drawable name="screen_transition_progress">r/y.xml</drawable>
+    <drawable name="selection_mark_without_v">r/bk.9.png</drawable>
+    <drawable name="single_selection_mark">r/bv.9.png</drawable>
+    <drawable name="snack_bar_background">r/1.xml</drawable>
+    <drawable name="snack_bar_rounded_background">r/r.xml</drawable>
+</resources>

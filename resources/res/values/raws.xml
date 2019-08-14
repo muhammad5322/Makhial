@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <raw name="logo">r/bm.png</raw>
+    <raw name="logo_v2">r/b_.jpg</raw>
+    <raw name="strs">r/b6.</raw>
+    <raw name="video_transcode_fs_bgra">r/b.glsl</raw>
+    <raw name="video_transcode_fs_rgba">r/bh.glsl</raw>
+    <raw name="video_transcode_vs">r/7.glsl</raw>
+</resources>

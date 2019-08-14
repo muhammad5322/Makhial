@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="browser_actions_context_menu_max_width">500dp</dimen>
+    <dimen name="browser_actions_context_menu_min_padding">20dp</dimen>
+    <dimen name="compact_tag_item_size">36dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="config_minScalingSpan">27mm</dimen>
+    <dimen name="config_minScalingTouchMajor">48dp</dimen>
+    <dimen name="custom_keyboard_layout_default_height">180dp</dimen>
+    <dimen name="fresco_progress_drawable_progress_bar_height">4dp</dimen>
+    <dimen name="gallery_video_item_overlay_padding">5dp</dimen>
+    <dimen name="multipicker_bar_height">48dp</dimen>
+    <dimen name="multipicker_button_margin">8dp</dimen>
+    <dimen name="multipicker_button_text_size">18sp</dimen>
+    <dimen name="multipicker_grid_spacing">4.5dp</dimen>
+    <dimen name="multipicker_progress_bar_height">3dp</dimen>
+    <dimen name="multipicker_thumbnail_size">100dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="selected_order_text_height">23.33dp</dimen>
+    <dimen name="selected_order_text_width">23dp</dimen>
+    <dimen name="soft_input_detection_min_height_dp">60dp</dimen>
+    <dimen name="tag_item_padding">6dp</dimen>
+    <dimen name="tag_item_size">40dp</dimen>
+    <dimen name="textbox_edit_text_horizontal_padding">8dp</dimen>
+    <dimen name="textbox_edit_text_vertical_padding">4dp</dimen>
+    <dimen name="toolbar_button_height">34dp</dimen>
+    <dimen name="video_duration_text_size">16sp</dimen>
+</resources>

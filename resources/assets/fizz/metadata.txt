@@ -1,0 +1,5 @@
+.id fizz
+.requires dex
+.requires shared0
+.locator_id 6
+fizz-1.dex.jar.xzs.tmp~ 5332e560abeca75c2bb7d9d52029baf454e677cf storef743.dex01.Canary

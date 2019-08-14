@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">เพิ่มใน Lite</string>
+    <string name="appupdate_notif_title_download_in_progress">กำลังดาวน์โหลดอัพเดต</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="external_share_to_story_intent_label">เรื่องราวของคุณ</string>
+</resources>

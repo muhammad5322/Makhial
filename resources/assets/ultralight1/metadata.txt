@@ -1,0 +1,4 @@
+.id ultralight1
+.requires dex
+.locator_id 1
+ultralight1-1.dex.jar.xzs.tmp~ 76244555cd7852d4a2470e6b442c0ce5749baee4 store9487.dex01.Canary

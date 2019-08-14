@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="160320475" android:versionName="107.0.0.0.49" package="com.facebook.lite" split="shared0">
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="26"/>
+    <module dist:onDemand="true"/>
+    <application android:hasCode="false" android:debuggable="false" android:allowBackup="false">
+        <meta-data android:name="com.facebook.rscmp" android:value="true"/>
+        <meta-data android:name="com.facebook.build_rule" android:value="android_fblite_voltron_splitted_comp_xzs_armv7_release_fbsign"/>
+        <meta-data android:name="com.facebook.package_type" android:value="release"/>
+        <meta-data android:name="com.facebook.build_time" android:value="1561292298000L"/>
+        <meta-data android:name="com.facebook.versioncontrol.branch" android:value="master"/>
+        <meta-data android:name="com.facebook.versioncontrol.revision" android:value="MASTER"/>
+    </application>
+</manifest>

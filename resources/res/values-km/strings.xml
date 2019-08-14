@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">បន្ថែមចូល Lite</string>
+    <string name="appupdate_notif_title_download_in_progress">កំពុងទាញយកបច្ចុប្បន្នភាព</string>
+    <string name="common_google_play_services_unknown_issue">%1$s កំពុងមានបញ្ហាជាមួយសេវាកម្មរបស់ Google Play ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="external_share_to_story_intent_label">រឿង​របស់​អ្នក</string>
+</resources>

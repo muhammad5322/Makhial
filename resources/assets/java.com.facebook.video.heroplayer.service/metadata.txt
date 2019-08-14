@@ -1,0 +1,4 @@
+.id java.com.facebook.video.heroplayer.service
+.requires dex
+.locator_id 4
+java.com.facebook.video.heroplayer.service-1.dex.jar.xzs.tmp~ e49e26a0cac346ecda6932cab2660463ec551af6 store59a4.dex01.Canary

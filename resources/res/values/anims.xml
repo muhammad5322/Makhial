@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <anim name="do_nothing">r/bu.xml</anim>
+    <anim name="slide_in_bottom">r/b7.xml</anim>
+    <anim name="slide_in_left">r/ch.xml</anim>
+    <anim name="slide_in_right">r/6.xml</anim>
+    <anim name="slide_out_bottom">r/cf.xml</anim>
+    <anim name="slide_out_left">r/3.xml</anim>
+    <anim name="slide_out_right">r/x.xml</anim>
+</resources>

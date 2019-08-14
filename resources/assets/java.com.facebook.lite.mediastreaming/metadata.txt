@@ -1,0 +1,5 @@
+.id java.com.facebook.lite.mediastreaming
+.requires dex
+.requires shared0
+.locator_id 5
+java.com.facebook.lite.mediastreaming-1.dex.jar.xzs.tmp~ 105203f75eecf9231337403ed0e238645b1765cc store92af.dex01.Canary

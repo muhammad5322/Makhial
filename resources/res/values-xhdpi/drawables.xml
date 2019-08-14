@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="camcorder_icon">r/b1.png</drawable>
+    <drawable name="camera_button">r/s.png</drawable>
+    <drawable name="cross">r/5.png</drawable>
+    <drawable name="ic_arrow_back_white_18dp">r/bc.png</drawable>
+    <drawable name="ic_check_white_18dp">r/c.png</drawable>
+    <drawable name="share">r/bn.png</drawable>
+    <drawable name="sysnotif_facebook">r/d.png</drawable>
+    <drawable name="sysnotif_friend_request">r/o.png</drawable>
+    <drawable name="sysnotif_invite">r/h.png</drawable>
+    <drawable name="sysnotif_message">r/a.png</drawable>
+</resources>

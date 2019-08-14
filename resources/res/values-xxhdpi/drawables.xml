@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="camcorder_icon">r/bq.png</drawable>
+    <drawable name="camera_button">r/8.png</drawable>
+    <drawable name="cross">r/bx.png</drawable>
+    <drawable name="share">r/bb.png</drawable>
+    <drawable name="sound_off">r/bz.png</drawable>
+    <drawable name="sound_on">r/bf.png</drawable>
+    <drawable name="video_full_screen_icon">r/bd.png</drawable>
+    <drawable name="video_pause_icon">r/f.png</drawable>
+    <drawable name="video_play_icon">r/bj.png</drawable>
+</resources>

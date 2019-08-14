@@ -1,0 +1,62 @@
+[
+  {
+    "hash": "e2aab6c73ae2fc6166fb542ae1578e8b780432a773c6ce7efc01534a4e2b74e5", 
+    "name": "data1", 
+    "path": "data1.apk"
+  }, 
+  {
+    "hash": "d12ac14aad742fc43e500e3fc9367534172d922117278465bd67c9fd80844667", 
+    "name": "data1024", 
+    "path": "data1024.apk"
+  }, 
+  {
+    "hash": "b0bfc0df33362d36a178b12fce2d4ff65f4471a4a039b3a9228a1c7ca8d044c8", 
+    "name": "data128", 
+    "path": "data128.apk"
+  }, 
+  {
+    "hash": "0f1916b5ef4ad5b67dd65b43d89a52ef1f5a398321c375afe0a81d72b0ac12b0", 
+    "name": "data2048", 
+    "path": "data2048.apk"
+  }, 
+  {
+    "hash": "93874731f1901904b75e3ac1147d62d9c9bb1534d9eda48af5b78ea010777b88", 
+    "name": "data256", 
+    "path": "data256.apk"
+  }, 
+  {
+    "hash": "5b4f928cf2838dc4b35914c9f5c2613c33687004f7a2292310bb628fed73af17", 
+    "name": "data512", 
+    "path": "data512.apk"
+  }, 
+  {
+    "hash": "44fd875d7df04d96d0cd2b20d2e0d354af095cc68d094196007da8443b4e0425", 
+    "name": "fizz", 
+    "path": "fizz.apk"
+  }, 
+  {
+    "hash": "725f69d90d0e7d7111443665c41ae719517ba4c182c0b69d8c214fcf04984ac7", 
+    "name": "java.com.facebook.lite.mediastreaming", 
+    "path": "java.com.facebook.lite.mediastreaming.apk"
+  }, 
+  {
+    "hash": "3a2879b06c417b698f0066f8ebfe272747355b565379499c7b618f74a279caf2", 
+    "name": "java.com.facebook.video.heroplayer.service", 
+    "path": "java.com.facebook.video.heroplayer.service.apk"
+  }, 
+  {
+    "hash": "147bba2a5145b49081a0715481cf16b182e96f4e8e8b6746a594c5b836af0768", 
+    "name": "java.com.facebook.video.heroplayer.service.live", 
+    "path": "java.com.facebook.video.heroplayer.service.live.apk"
+  }, 
+  {
+    "hash": "5333e3250b0e7ed3ec29eeb4f0454cf0830cc73ee9bb6c04ae2266ea0b4b8481", 
+    "name": "okhttp", 
+    "path": "okhttp.apk"
+  }, 
+  {
+    "hash": "e91ad676d403c855725f076be7ef7c65afa45f15886c0c2aa218dcf43f3cb650", 
+    "name": "ultralight1", 
+    "path": "ultralight1.apk"
+  }
+]

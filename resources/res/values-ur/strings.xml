@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">لائٹ میں شامل کریں</string>
+    <string name="appupdate_notif_title_download_in_progress">تجدید ڈاؤن لوڈ ہو رہی ہیں</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="external_share_to_story_intent_label">آپ کی کہانی</string>
+</resources>

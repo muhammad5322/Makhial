@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">发布到 Lite</string>
+    <string name="appupdate_notif_title_download_in_progress">正在下载更新</string>
+    <string name="common_google_play_services_unknown_issue">%1$s无法访问 Google Play 服务，请重试。</string>
+    <string name="external_share_to_story_intent_label">你的快拍</string>
+</resources>

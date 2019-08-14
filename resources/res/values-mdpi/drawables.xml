@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="camcorder_icon">r/n.png</drawable>
+    <drawable name="sysnotif_facebook">r/b2.png</drawable>
+    <drawable name="sysnotif_friend_request">r/b0.png</drawable>
+    <drawable name="sysnotif_invite">r/cc.png</drawable>
+    <drawable name="sysnotif_message">r/cb.png</drawable>
+</resources>

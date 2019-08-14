@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <xml name="apkfileproviderpaths">r/bp.xml</xml>
+    <xml name="photofileproviderpaths">r/i.xml</xml>
+</resources>

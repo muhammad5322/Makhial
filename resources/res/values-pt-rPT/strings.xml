@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appupdate_notif_title_download_in_progress">A descarregar atualização</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está a ter problemas com os Serviços do Google Play. Tente novamente.</string>
+    <string name="external_share_to_story_intent_label">A tua história</string>
+</resources>

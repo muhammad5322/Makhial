@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__external__external_share_intent_label">লাইটে যোগ করুন</string>
+    <string name="app_name">লাইট</string>
+    <string name="appupdate_notif_title_download_in_progress">আপডেট ডাউনলোড করা হচ্ছে</string>
+    <string name="common_google_play_services_unknown_issue">Google Play পরিষেবাগুলির সাথে %1$s এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="external_share_to_story_intent_label">আপনার স্টোরি</string>
+</resources>
